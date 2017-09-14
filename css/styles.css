@@ -1,0 +1,16 @@
+img {
+  height: 300px;
+  width: auto;
+}
+
+#tigers {
+  display: none;
+}
+
+#lions {
+  display: none;
+}
+
+#wolves {
+  display: none;
+}
